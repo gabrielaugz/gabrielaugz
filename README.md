@@ -1,4 +1,4 @@
-                                                      18y. Learner. Computer science student.
+                                                    18y. Learner. Computer science student.
                                                       
   <div align="center">
   <a href="https://github.com/worn-n">
