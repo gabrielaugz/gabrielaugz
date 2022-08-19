@@ -1,6 +1,6 @@
   <div align="center">
   <p>18y. Learner. Computer science student.</p>
- <a href="https://github.com/Gurupreet">
+ <a href="https://github.com/gabrielaugz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugz&theme=dracula&hide_langs_below=1" />
 </a>
 
