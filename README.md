@@ -1,7 +1,15 @@
-# Hi, I'm Gabriel! 👨‍💻
+<h1 align="center">Hi, I'm Gabriel! 👨‍💻</h1>
+<p align="center">Student @ USP | Software Developer | Java • Python • React • SQL</p>
 
-Computer science student at USP with a focus on software development.  
-Currently exploring backend development, cloud infrastructure and open source projects. Passionate about building simple and impactful solutions.
+---
+
+### 🧠 About Me
+
+- 🎓 Computer Science student at USP – Ribeirão Preto (2022–2026)
+- 💻 Interested in backend development, databases, and clean code
+- 🚀 Contributor to open source projects
+- 🔐 Creator of **PhishDetector** — phishing detection system using Java + Python + React
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabriel-a-8667a0238/) | [GitHub](https://github.com/gabrielaugz)
 
 ---
 
@@ -18,9 +26,9 @@ Currently exploring backend development, cloud infrastructure and open source pr
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaugz&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugz&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaugz&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugz&layout=compact&theme=radical" />
 </p>
