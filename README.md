@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gabriel! 👨‍💻</h1>
-<p align="center">Student @ USP | Software Developer | Java • Python • React • SQL</p>
+<p align="center">Student @ USP | Software Developer | Java • Python • SQL</p>
 
 ---
 
@@ -8,7 +8,6 @@
 - 🎓 Computer Science student at USP – Ribeirão Preto (2022–2026)
 - 💻 Interested in backend development, databases, and clean code
 - 🚀 Contributor to open source projects
-- 🔐 Creator of **PhishDetector** — phishing detection system using Java + Python + React
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabriel-a-8667a0238/) | [GitHub](https://github.com/gabrielaugz)
 
 ---
