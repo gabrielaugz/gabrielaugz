@@ -25,9 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaugz&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugz&layout=compact&theme=radical" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielaugz&theme=java-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
