@@ -8,8 +8,7 @@
 - 🎓 Computer Science student at USP – Ribeirão Preto (2022–2026)
 - 💻 Interested in backend development, databases and clean code
 - 🚀 Contributor to open source projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabriel-a-8667a0238/) | [GitHub](https://github.com/gabrielaugz)
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabriel-a-8667a0238/)
 ---
 
 ### 🚀 Technologies & tools I usually work with
