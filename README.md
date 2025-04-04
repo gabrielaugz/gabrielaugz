@@ -27,4 +27,4 @@
 
 ### 🎯 GitHub Stats (streak)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielaugz)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielaugz&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
